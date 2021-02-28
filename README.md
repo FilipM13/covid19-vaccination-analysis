@@ -283,7 +283,7 @@ Else price for single vaccine is average of vaccine it used.
 
 ### Sources:
 kaggle task with data: https://www.kaggle.com/gpreda/covid-world-vaccination-progress/tasks  
-'main data source' refers to country_vaccinations.csv file in the main directory.
+'main data source' refers to country_vaccinations.csv file in the main directory.  
 Vacines prices:  
 https://sputnikvaccine.com/newsroom/pressreleases/the-cost-of-one-dose-will-be-less-than-10-for-international-markets/  
 https://observer.com/2020/11/covid19-vaccine-price-pfizer-moderna-astrazeneca-oxford  
