@@ -63,7 +63,7 @@ Most popular vaccine is manufactured by Pfizer/BioNTech, it's used in 45 countri
 | United States        | Moderna, Pfizer/BioNTech                                                           |
 | Wales                | Oxford/AstraZeneca, Pfizer/BioNTech                                                |
 
-![country_vaccine_count](country_vaccine_manufacturer\country_vaccine_count.png)
+![country_vaccine_count](https://raw.githubusercontent.com/FilipM13/covid19-vaccination-analysis/main/country_vaccine_manufacturer/country_vaccine_count.png)  
 <small>Bar chart generated with count_vaccine_country.py</small>
 
 ## In which country the vaccination programme is more advanced?
@@ -131,7 +131,7 @@ vaccinated per hundred for each country from main data source.
 | Albania              | 0.01                                                |
 | South Africa         | 0.01                                                |
 
-![vaccinated_per_day](vaccinated_per_day\vaccinated_per_day.png)
+![vaccinated_per_day](https://raw.githubusercontent.com/FilipM13/covid19-vaccination-analysis/main/vaccinated_per_day/vaccinated_per_day.png)
 <small>Bar chart generated with vaccinated_per_day.py</small>
 
 ## What country has vaccinated a larger percent from its population?
@@ -197,7 +197,7 @@ vaccinations per million for each country from main data source.
 | South Africa         | 0.11                               |
 | Albania              | 0.08                               |
 
-![vaccinated_percent](vaccinated_percent\vaccinated_percent.png)
+![vaccinated_percent](https://raw.githubusercontent.com/FilipM13/covid19-vaccination-analysis/main/vaccinated_percent/vaccinated_percent.png)
 <small>Bar chart generated with vaccinated_percent.py</small>
 
 ## What country has vaccinated more people?
@@ -264,7 +264,7 @@ people vaccinated and people fully vaccinated for each country from main data so
 | Faeroe Islands       | 6713                    | 4190                   | 2523                         |
 | Albania              | 3049                    | 2438                   | 611                          |
 
-![total_vaccinated](total_vaccinated\total_vaccinated.png)
+![total_vaccinated](https://raw.githubusercontent.com/FilipM13/covid19-vaccination-analysis/main/total_vaccinated/total_vaccinated.png)
 <small>Bar chart generated with total_vaccinated.py</small>
 
 ## Approximate expense paid until 25.02.2021 for vaccines for each country.
