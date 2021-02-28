@@ -1,0 +1,54 @@
+country,"ROUND(AVG(daily_vaccinations_per_million)/10000, 2)"
+Gibraltar,2.28
+Seychelles,1.75
+Israel,1.44
+"Cayman Islands",0.69
+Wales,0.61
+"United Arab Emirates",0.6
+Scotland,0.55
+England,0.54
+"Isle of Man",0.54
+"United Kingdom",0.53
+Serbia,0.51
+"Northern Ireland",0.49
+"United States",0.4
+Morocco,0.39
+Turkey,0.36
+Chile,0.36
+Malta,0.36
+"Faeroe Islands",0.34
+Switzerland,0.22
+Iceland,0.22
+Norway,0.17
+Sweden,0.17
+Greece,0.17
+Estonia,0.17
+Romania,0.16
+Finland,0.16
+Denmark,0.16
+Slovakia,0.16
+Poland,0.16
+Lithuania,0.16
+Hungary,0.16
+Ireland,0.15
+Portugal,0.15
+France,0.14
+Spain,0.14
+Belgium,0.14
+Austria,0.14
+Slovenia,0.14
+Luxembourg,0.13
+Germany,0.13
+Croatia,0.12
+Czechia,0.11
+Italy,0.11
+Brazil,0.11
+Latvia,0.05
+Bulgaria,0.05
+Argentina,0.03
+Mexico,0.03
+Oman,0.03
+India,0.03
+Indonesia,0.02
+Albania,0.01
+"South Africa",0.01

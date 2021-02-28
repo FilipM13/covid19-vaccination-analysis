@@ -1,0 +1,54 @@
+country,MAX(people_vaccinated_per_hundred)
+Gibraltar,64.09
+Israel,53.87
+Seychelles,44.19
+"United Arab Emirates",35.19
+England,28.83
+Wales,28.62
+"United Kingdom",28.25
+Scotland,28.24
+"Northern Ireland",26.68
+"Cayman Islands",19.34
+Chile,17.21
+"Isle of Man",15.99
+"United States",14.11
+Serbia,13.02
+Malta,11.38
+Morocco,9.02
+"Faeroe Islands",8.57
+Turkey,8
+Denmark,6.49
+Finland,6.26
+Switzerland,6.1
+Lithuania,5.96
+Norway,5.88
+Hungary,5.83
+Slovenia,5.79
+Iceland,5.74
+Slovakia,5.52
+Greece,5.34
+Portugal,5.28
+Estonia,5.17
+Spain,5.05
+Ireland,4.84
+Poland,4.82
+Sweden,4.69
+Romania,4.63
+Germany,4.63
+Italy,4.46
+Luxembourg,4.17
+France,4.14
+Belgium,3.98
+Czechia,3.8
+Austria,3.77
+Croatia,3.31
+Brazil,2.99
+Bulgaria,2.41
+Latvia,2.32
+Argentina,1.37
+Mexico,1.33
+Oman,0.95
+India,0.84
+Indonesia,0.58
+"South Africa",0.11
+Albania,0.08
