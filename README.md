@@ -7,7 +7,7 @@ Using MySQL and country_vaccination.csv I exported distinct pairs of countries a
 Results were exported into country-vaccine.csv file. From this file I created table and bar chart below.
 Most popular vaccine is manufactured by Pfizer/BioNTech, it's used in 45 countries.
 
-| country              | vaccines                                                                           |
+| country              | vaccine manufacturer                                                               |
 |----------------------|------------------------------------------------------------------------------------|
 | Albania              | Pfizer/BioNTech                                                                    |
 | Argentina            | Sputnik V                                                                          |
@@ -72,8 +72,8 @@ Most popular vaccine is manufactured by Pfizer/BioNTech, it's used in 45 countri
 <small>Files corresponding to this part are stored in vaccinated_per_day folder</small>
 
 Based on main data source Gibraltar vaccinates the largest percent of population per day.
-I took most important information by using vaccinated_percent.sql which takes maximum value of people
-vaccinated per hundred for each country from main data source.
+I took most important information by using vaccinated_per_day.sql which takes average value of people daily 
+vaccinations per million for each country from main data source.
 
 | country              | average population vaccination per day [%]          |
 |----------------------|-----------------------------------------------------|
@@ -138,8 +138,8 @@ vaccinated per hundred for each country from main data source.
 <small>Files corresponding to this part are stored in vaccinated_percent folder</small>
 
 Based on main data source Gibraltar vaccinated the largest percent of population.
-I took most important information by using vaccinated_per_day.sql which takes maximum value of people daily 
-vaccinations per million for each country from main data source.
+I took most important information by using vaccinated_percent.sql which takes maximum value of people
+vaccinated per hundred for each country from main data source.
 
 | country              | vaccinated population [%]          |
 |----------------------|------------------------------------|
@@ -208,7 +208,7 @@ They also fully vaccinated the largest number of people and therefore used the l
 I took most important information by using total_vaccinated.sql which takes maximum value of total vaccinations,
 people vaccinated and people fully vaccinated for each country from main data source.
 
-| country              | MAX(total_vaccinations) | MAX(people_vaccinated) | MAX(people_fully_vaccinated) |
+| country              | used vaccinations       | vaccinated people      | fully vaccinated people      |
 |----------------------|-------------------------|------------------------|------------------------------|
 | United States        | 70454064                | 47184199               | 22613359                     |
 | United Kingdom       | 19913592                | 19177555               | 736037                       |
