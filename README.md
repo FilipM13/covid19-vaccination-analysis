@@ -267,10 +267,23 @@ people vaccinated and people fully vaccinated for each country from main data so
 ![total_vaccinated](https://raw.githubusercontent.com/FilipM13/covid19-vaccination-analysis/main/total_vaccinated/total_vaccinated.png)
 <small>Bar chart generated with total_vaccinated.py</small>
 
-## Approximate expense paid until 25.02.2021 for vaccines for each country.
+## Approximate expense paid until 25.02.2021 for vaccines for each country.  
+"Pfizer: $20 per dose."  
+"Moderna: $10 to $50 per dose."  
+"AstraZeneca: under $4 per dose."  
+"The cost of one dose of the Sputnik V vaccine for international markets will be less than $10."  
+ 
+If country didn't use any of vaccines listed above then it would not appear on the graph. 
+Else price for single vaccine is average of vaccine it used.
+
+![paid_expenses](https://raw.githubusercontent.com/FilipM13/covid19-vaccination-analysis/main/paid_expenses/paid_expenses.png)
+<small>Bar chart generated with paid_expenses.py</small>
 
 ## Approximate total expense  for vaccines for each country.
 
 ### Sources:
 kaggle task with data: https://www.kaggle.com/gpreda/covid-world-vaccination-progress/tasks  
 'main data source' refers to country_vaccinations.csv file in the main directory.
+Vacines prices:  
+https://sputnikvaccine.com/newsroom/pressreleases/the-cost-of-one-dose-will-be-less-than-10-for-international-markets/  
+https://observer.com/2020/11/covid19-vaccine-price-pfizer-moderna-astrazeneca-oxford  
