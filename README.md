@@ -66,8 +66,6 @@ Most popular vaccine is manufactured by Pfizer/BioNTech, it's used in 45 countri
 ![country_vaccine_count](https://raw.githubusercontent.com/FilipM13/covid19-vaccination-analysis/main/country_vaccine_manufacturer/country_vaccine_count.png)  
 <small>Bar chart generated with count_vaccine_country.py</small>
 
-## In which country the vaccination programme is more advanced?
-
 ## Where are vaccinated more people per day in terms of percent from entire population?
 <small>Files corresponding to this part are stored in vaccinated_per_day folder</small>
 
@@ -291,10 +289,9 @@ Else price for single vaccine is average of vaccine it used.
 Needed data was selected from main data source with total_expenses.sql and exported to total_expenses.csv.
 
 ![total_expenses](https://raw.githubusercontent.com/FilipM13/covid19-vaccination-analysis/main/total_expenses/total_expenses.png)
-<small>Bar chart generated with total_expenses.py</small>
+<small>Bar chart generated with total_expenses.py</small>  
 
-
-### Sources:
+## Sources:  
 kaggle task with data: https://www.kaggle.com/gpreda/covid-world-vaccination-progress/tasks  
 'main data source' refers to country_vaccinations.csv file in the main directory.  
 Vaccine prices:  
