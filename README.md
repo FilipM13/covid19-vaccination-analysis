@@ -279,7 +279,18 @@ Else price for single vaccine is average of vaccine it used.
 ![paid_expenses](https://raw.githubusercontent.com/FilipM13/covid19-vaccination-analysis/main/paid_expenses/paid_expenses.png)
 <small>Bar chart generated with paid_expenses.py</small>
 
-## Approximate total expense  for vaccines for each country.
+## Approximate total expense  for vaccines for each country.  
+"Pfizer: $20 per dose."  
+"Moderna: $10 to $50 per dose."  
+"AstraZeneca: under $4 per dose."  
+"The cost of one dose of the Sputnik V vaccine for international markets will be less than $10."  
+ 
+If country didn't use any of vaccines listed above then it would not appear on the graph. 
+Else price for single vaccine is average of vaccine it used.
+
+![total_expenses](https://raw.githubusercontent.com/FilipM13/covid19-vaccination-analysis/main/total_expenses/total_expenses.png)
+<small>Bar chart generated with total_expenses.py</small>
+
 
 ### Sources:
 kaggle task with data: https://www.kaggle.com/gpreda/covid-world-vaccination-progress/tasks  
