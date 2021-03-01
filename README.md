@@ -274,7 +274,8 @@ people vaccinated and people fully vaccinated for each country from main data so
 "The cost of one dose of the Sputnik V vaccine for international markets will be less than $10."  
  
 If country didn't use any of vaccines listed above then it would not appear on the graph. 
-Else price for single vaccine is average of vaccine it used.
+Else price for single vaccine is average of vaccine it used. 
+Needed data was selected from main data source with paid_expenses.sql and exported to paid_expenses.csv.
 
 ![paid_expenses](https://raw.githubusercontent.com/FilipM13/covid19-vaccination-analysis/main/paid_expenses/paid_expenses.png)
 <small>Bar chart generated with paid_expenses.py</small>
@@ -286,7 +287,8 @@ Else price for single vaccine is average of vaccine it used.
 "The cost of one dose of the Sputnik V vaccine for international markets will be less than $10."  
  
 If country didn't use any of vaccines listed above then it would not appear on the graph. 
-Else price for single vaccine is average of vaccine it used.
+Else price for single vaccine is average of vaccine it used. 
+Needed data was selected from main data source with total_expenses.sql and exported to total_expenses.csv.
 
 ![total_expenses](https://raw.githubusercontent.com/FilipM13/covid19-vaccination-analysis/main/total_expenses/total_expenses.png)
 <small>Bar chart generated with total_expenses.py</small>
